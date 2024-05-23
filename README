@@ -1,0 +1,11 @@
+Hello, This simple and cool project can make you a very old static and minimal RPG game base on pure HTML (or some css) and some other things
+Last week, I saw a website that was a very cool RPG game base on HTML and it had some buttons to decide which way you want to continue the story
+It was amazing how minimal was that website and how cool can be to just read and click!
+And i made this project. It's so easy to just write a XML file and make HTML pages base on that, plus you have some cool options that makes it easy as writing your own story as a book!, if you like this project give a star to it.
+
+- How to work:
+Make a xml file like story.xml (there is a example one) and write your own story, you can use the example to write whatever you want
+Run the python script to make a folder called `Game` for you, you can run the main .html file (base on your starting page) and enjoy
+For changes, just change the xml file, re-generate the HTML files and run it
+
+Have some fun, 2024 richard
