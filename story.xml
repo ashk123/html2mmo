@@ -1,0 +1,27 @@
+<pages>
+	<page name="start">
+		<body>
+			Welcome to the new world of dragons! #smile
+			There is a big door next to you that says something mystry
+			"Do you want to open the door and step to the dragons world?"
+			you want to say something but it feels that you are exicted
+			you are standing with a green shirt, you have #[blue, white, green, black] eyee and -
+			white skin
+			Random Things generated: #[welcome, nice, easy, better] a
+			asd
+		</body>
+
+		<btn page="open">Open the door</btn>
+		<btn page="close">Don't open the door</btn>
+	</page>
+	<page name="open">
+		<body>
+			you openede the door
+		</body>
+	</page>
+	<page name="close">
+		<body>
+			Seems like you are not ready to open the door
+		</body>
+	</page>
+</pages>
